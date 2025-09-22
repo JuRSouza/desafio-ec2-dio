@@ -21,16 +21,6 @@ Este material serve como apoio para estudos futuros e como registro técnico da 
 
 ---
 
-## 📌 Etapas Realizadas
-
-- Criação de instância EC2 com sistema operacional Linux
-- Configuração de armazenamento com EBS
-- Conexão com banco de dados RDS
-- Teste de envio de arquivos via SSH
-- Criação de diagrama de arquitetura para visualização da infraestrutura
-
----
-
 ## 📷 Diagrama de Arquitetura
 
 O diagrama abaixo representa a estrutura utilizada durante o desafio:
@@ -52,7 +42,6 @@ O diagrama abaixo representa a estrutura utilizada durante o desafio:
 ## 🚧 Status do Projeto
 
 > ⚠️ Este projeto ainda está em desenvolvimento.  
-Ainda serão finalizados ajustes nos scripts, configurações de segurança e documentação técnica em HTML, CSS e JavaScript para complementar a prática.
 
 ---
 
@@ -64,8 +53,5 @@ Ainda serão finalizados ajustes nos scripts, configurações de segurança e do
 
 ---
 
-## 📬 Contato
-
-Caso tenha dúvidas ou sugestões, entre em contato:  
-**Juliana Souza** – [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-📧 conexao@bairro.com.br
+## 👩‍💻 Autora
+**Juliana Rodrigues de Souza**  
